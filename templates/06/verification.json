@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-24",
+  "browser": "Chrome, isolated Playwright context",
+  "checks": [
+    "Dashboard and navigation",
+    "All 14 views",
+    "Channel/account separation, drafts and local reply",
+    "Profile 360 three layers",
+    "Stages and sub-stage filter",
+    "MQL Q1/Q2 gate, Cold/Warm/Hot derivation, apply and undo",
+    "Potential Low/Medium/High and High payment/forecast gate",
+    "Cross CIS/SSV and same-BU duplicate creation blocked",
+    "Sibling linked without merging students",
+    "Blank phone does not match unrelated household",
+    "Reopening gate blocks K12 conflict",
+    "Persistence",
+    "Four principal workspaces at five responsive widths"
+  ],
+  "pageErrors": [],
+  "views": [
+    "dashboard",
+    "campaigns",
+    "admissions",
+    "tasks",
+    "inbox",
+    "reports",
+    "operations",
+    "omnichannel",
+    "forms",
+    "outbound",
+    "advisors",
+    "referrals",
+    "targets",
+    "profiles"
+  ]
+}
